@@ -43,7 +43,7 @@ Adopters separately determine the licensing and confidentiality posture of any i
 
 ## Contributing and errata
 
-Issues and pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md). Substantive proposals are best opened as an issue first so the change can be discussed before drafting. Direct contact: `elsaiedy@ccoe.io`.
+Issues and pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md). Substantive proposals are best opened as an issue first so the change can be discussed before drafting. Direct contact: `aigovernance@ccoe.io`.
 
 ## Versioning
 

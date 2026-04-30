@@ -37,4 +37,4 @@ For factual errors that could mislead adopters in production-sensitive ways, or 
 
 ## Direct contact
 
-`elsaiedy@ccoe.io`
+`aigovernance@ccoe.io`

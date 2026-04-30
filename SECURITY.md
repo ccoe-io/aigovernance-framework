@@ -13,7 +13,7 @@ If the issue does not affect anyone's adoption decisions, open a normal pull req
 
 ## How to report
 
-Email `elsaiedy@ccoe.io` with:
+Email `aigovernance@ccoe.io` with:
 
 - the section or appendix the issue affects,
 - the specific claim and the corrected claim,
