@@ -6,7 +6,7 @@
 | Type | Public reference framework for enterprise AI governance |
 | Last updated | 2026-04-29 |
 | Author and maintainer | Muhammad Elsaiedy |
-| Contact | elsaiedy@ccoe.io |
+| Contact | aigovernance@ccoe.io |
 | Audience | Platform engineering, application security, application development, ML/AI engineering, product, risk, compliance, AI and CISO practitioners adapting this framework for their organisation |
 | Applies to | All AI systems designed, deployed, operated, embedded, or consumed by an adopting organisation, including third-party SaaS features that use AI server-side on the organisation's data |
 
@@ -32,7 +32,7 @@ Normative language follows RFC 2119: **MUST** / **MUST NOT** are requirements, *
 
 **Short form:** Elsaiedy, M. (2026). *AI Governance Framework*, v1.1.1. CC BY-SA 4.0.
 
-**Errata, contributions, and adoption questions:** elsaiedy@ccoe.io
+**Errata, contributions, and adoption questions:** aigovernance@ccoe.io
 
 This document is published under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Adaptations preserve attribution to the author and the share-alike obligation per the licence terms. Adopters separately determine the licensing and confidentiality posture of any internal policy or implementation derived from this text — for example, a private internal policy may be circulated within the adopting organisation while the source framework remains under CC BY-SA 4.0.
 
