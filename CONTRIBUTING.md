@@ -33,7 +33,7 @@ Material under licences incompatible with CC BY-SA 4.0 (for example CC BY-NC, pr
 
 ## Reporting non-public concerns
 
-For factual errors that could mislead adopters in production-sensitive ways, or for governance flaws you would prefer to disclose privately before opening a public issue, see [SECURITY.md](SECURITY.md).
+For factual errors that could mislead adopters in production-sensitive ways, or for governance flaws you would prefer to disclose privately before opening a public issue, see [SECURITY.md](https://github.com/ccoe-io/aigovernance-framework/blob/main/SECURITY.md).
 
 ## Direct contact
 

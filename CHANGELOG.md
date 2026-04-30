@@ -1,7 +1,7 @@
 # Changelog
 
 All notable changes to this framework are recorded in
-[Appendix F (Document history)](docs/AI-GOVERNANCE-FRAMEWORK.md#appendix-f--document-history)
+[Appendix F (Document history)](https://github.com/ccoe-io/aigovernance-framework/blob/main/docs/AI-GOVERNANCE-FRAMEWORK.md#appendix-f--document-history)
 of the framework itself. This file is a high-level mirror; consult Appendix F
 for the authoritative per-version diff.
 
