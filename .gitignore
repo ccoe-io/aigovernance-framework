@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# MkDocs build output
+site/
+
+# Python (Actions builds use Python; local dev may too)
+__pycache__/
+*.pyc
+.venv/
+venv/
+.python-version
+
+# Local rendering scratch
+/tmp/
+*.bak

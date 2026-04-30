@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you adopt or cite this framework, please cite it as below."
+title: "AI Governance Framework"
+abstract: >-
+  A public reference framework for governing generative and agentic AI systems
+  in an enterprise context, structured around a layered control model, a
+  four-seam threat model, a data-governance discipline, and a lifecycle, with
+  an explicit register of known limits.
+type: software
+authors:
+  - given-names: Muhammad
+    family-names: Elsaiedy
+    email: elsaiedy@ccoe.io
+version: "1.1.1"
+date-released: "2026-04-29"
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/ccoe-io/aigovernance-framework"
+url: "https://ccoe-io.github.io/aigovernance-framework/"
+keywords:
+  - AI governance
+  - agentic AI
+  - generative AI
+  - enterprise security
+  - threat modelling
+  - risk management
+  - DORA
+  - NIS2
+  - EU AI Act
+  - OWASP
+  - NIST AI RMF
